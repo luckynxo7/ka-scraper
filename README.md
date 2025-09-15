@@ -1,0 +1,1 @@
+<hier im echten Code käme der Inhalt von README, abgeschnitten für Demo>
